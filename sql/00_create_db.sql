@@ -1,0 +1,5 @@
+IF DB_ID('anniedb') IS NULL
+BEGIN
+    CREATE DATABASE anniedb;
+END;
+GO
