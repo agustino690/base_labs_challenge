@@ -1,8 +1,8 @@
-# Annie’s Magic Numbers — Data & Analytics Case Study
+# Data & Analytics Case Study
 
 ## 1) Objective
 
-This challenge analyzes Annie’s liquor and spirits wholesale business to understand **profitability** at product and brand level.
+This challenge analyzes wholesale business to understand **profitability** at product and brand level.
 
 Using the case-study CSV files, the solution:
 
